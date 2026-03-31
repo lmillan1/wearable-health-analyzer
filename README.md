@@ -5,7 +5,7 @@ End-to-end health analytics pipeline analyzing Fitbit wearable data from 35 user
 ## Dashboard
 
 [View Live on Tableau Public]
-([https://public.tableau.com/app/profile/luis.millan6098/viz/FitbitWearableHealthAnalyticsDashboard/Dashboard1](https://public.tableau.com/app/profile/luis.millan6098/viz/FitbitWearableHealthAnalyticsDashboard/Dashboard1?publish=yes))
+(https://public.tableau.com/app/profile/luis.millan6098/viz/FitbitWearableHealthAnalyticsDashboard/Dashboard1?publish=yes)
 
 ![Dashboard](tableau/Dashboard.png)
 
