@@ -7,7 +7,7 @@ End-to-end health analytics pipeline analyzing Fitbit wearable data from 35 user
 [View Live on Tableau Public]
 (https://public.tableau.com/app/profile/luis.millan6098/viz/FitbitWearableHealthAnalyticsDashboard/Dashboard1?publish=yes)
 
-![Dashboard](tableu/Dashboard.png)
+![Dashboard](tableau/Dashboard.png)
 
 ## Stack
 PySpark · PostgreSQL · Tableau · Python
